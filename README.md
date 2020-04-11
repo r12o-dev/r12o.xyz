@@ -1,6 +1,6 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/8fd7da5f-0c4d-4a43-9e23-2d1baf0d35cc/deploy-status)](https://app.netlify.com/sites/hugo-novela-forestry/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/698e7f89-5519-4916-939c-e8637118472f/deploy-status)](https://app.netlify.com/sites/lucid-goldstine-e11188/deploys)
 
-# Hugo Novela Forestry Starter
+# r12o.xyz powered by Hugo Novela Forestry Starter
 
 A port of [Narative](https://www.narative.co/)'s Gatsby theme [Novela](https://www.narative.co/labs/novela/)
 
